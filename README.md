@@ -1,6 +1,6 @@
 ## React app
 
-This is a react app with AWS cognito Authentication.
+This is a react app with AWS cognito Authentication
 
 ## Available Scripts
 
